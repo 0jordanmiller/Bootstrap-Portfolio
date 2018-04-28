@@ -1,0 +1,95 @@
+ul {
+	margin-right: 240px;
+}
+
+p {
+	color: white;
+}
+
+h2 {
+	color: white !important;
+}
+
+li {
+	color: white !important;
+}
+
+img {
+	margin-right: 10px;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1.5px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    background: white;
+}
+
+.Jordan {
+	color: white !important;
+	position: relative;
+	left: 23%;
+}
+
+.nav-links {
+	color: white !important;
+}
+
+.middle {
+	max-width: 940px;
+	background: #18453b;
+	margin-top: 15px;
+	border-radius: 10px;
+
+}
+
+.prof-pic {
+	margin-right: 10px;
+	float: left;
+	position: relative;
+	top: 8px;
+}
+
+.inside-box {
+	max-width: 100%;
+}
+
+.main-text {
+	float:left;
+}
+
+.about-text {
+}
+
+.nav-color {
+	background-color: #18453b !important;
+}
+
+.navbar-brand {
+	color: white;
+}
+
+.port-img-text {
+	position: relative;
+	z-index: 2;
+	bottom: 0px;
+	text-align: center;
+	background: white;
+	color: #18453b;
+	padding: 10px;
+	width: 250px;
+	box-sizing: border-box;
+	bottom: 60px;
+	font: 1em "Fira Sans", sans-serif;
+}
+
+.floater {
+	float: left;
+	margin: 0px 10px;
+}
